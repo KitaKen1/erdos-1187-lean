@@ -55,6 +55,9 @@ Use these files for Lean4Web:
 
 For checking the counterexample to the second question, paste `ForLean4Web/SecondSolutionLean4Web.lean`.
 
+## AI assistance disclosure
+
+This repository was developed with assistance from OpenAI Codex, using GPT-5.5 with Extra High (`xhigh`) reasoning effort.
 
 ## Reference
 
